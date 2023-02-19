@@ -1,2 +1,2 @@
 # PongGame
-It is PongGame built with Java Swing .
+It is a PongGame built with Java Swing .
